@@ -6,7 +6,7 @@ The MATLAB implementation of our GoMBF-Cascade algorithm for 3D facial tracking.
 
 # Setup
 - Create a 'model' folder under the main directory and put the models mentioned below inside. 
-- Put the following OpenCV DLLs and files into the main directory:  
+- Put the following OpenCV DLLs and files into the main directory: opencv_core2413.dll, opencv_gpu2413.dll, opencv_highgui2413.dll, opencv_imgproc2413.dll, pencv_objdetect2413.dll, haarcascade_frontalface_alt2.xml.
 
 # Data and Models
 - Please send emails to jianwen.lou.ly@gmail.com for the training data, the parametric face model, a pre-trained 2D landmark detection model and a 3D facial tracking model. 
