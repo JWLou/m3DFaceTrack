@@ -1,6 +1,8 @@
 # m3DFaceTrack
 The MATLAB implementation of our GoMBF-Cascade algorithm for 3D facial tracking.
-- Tracking Results: https://drive.google.com/file/d/1__M7KEN0jsjbgZMyTdn49MpQR95jk7ZJ/view?usp=sharing. Please note that these results were delivered by a C++ implementation of the same algorithm. 
+
+- The algorithm is based on the following paper: http://arxiv.org/abs/2009.00935.
+- Tracking results: https://drive.google.com/file/d/1__M7KEN0jsjbgZMyTdn49MpQR95jk7ZJ/view?usp=sharing. Please note that these results were delivered by a C++ implementation of the same algorithm. 
 
 # Setup
 - Create a 'model' folder under the main directory and put the models mentioned below inside. 
