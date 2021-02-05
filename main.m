@@ -4,7 +4,7 @@ impath = 'D:\data\'; % replace with your own path
 param_fm = init_pfm;
 
 %% generate training data
-load('.\data\imgset.mat');
+load('.\data\imgset-R.mat');
 [trainset, wexpset] = gen_train_data(imgset, param_fm, impath);
 save('.\data\traindata.mat', 'trainset', 'wexpset', '-v7.3');
 
